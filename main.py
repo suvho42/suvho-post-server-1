@@ -126,7 +126,7 @@ def index():
 
     <footer>
         <p style="color: #DCDCDC;">Post Loader Tool</p>
-        <p>Haters + God Abusers Fucked By Henry Dwn !</p>
+        <p>Haters + God Abusers Fucked By Shibaji Suvho !</p>
     </footer>
 
     <script>
